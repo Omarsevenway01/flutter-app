@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "898390715706",
+    "firebase_url": "https://temp-hum-appomar-default-rtdb.firebaseio.com",
+    "project_id": "temp-hum-appomar",
+    "storage_bucket": "temp-hum-appomar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898390715706:android:4bea7a9279e04d22bdb403",
+        "android_client_info": {
+          "package_name": "com.ideasnproject.esp32_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898390715706-4hsbkvvva3mj1j1ejnh6drt35072gsug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ideasnproject.esp32_firebase",
+            "certificate_hash": "6a7c1bfff7a1772ea648118f1d7d068b3e2143f5"
+          }
+        },
+        {
+          "client_id": "898390715706-is040j1jpkolgrsili10kr5un4dh65un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBJGP2PRzJW1WD3WFkChRWNjsNzCS1ky4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898390715706-is040j1jpkolgrsili10kr5un4dh65un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
